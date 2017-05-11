@@ -1,0 +1,2 @@
+[24-Apr-2017 19:03:15 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 786432 bytes) in /home/graphictory/public_html/wp-content/themes/graphictory/css/fonts.php on line 1262
+[06-May-2017 06:51:43 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/graphictory/public_html/wp-includes/functions.php on line 3487

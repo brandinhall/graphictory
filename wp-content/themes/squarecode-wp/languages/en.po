@@ -1,0 +1,527 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SQUARECODE-WP\n"
+"POT-Creation-Date: 2014-07-16 10:12-0500\n"
+"PO-Revision-Date: 2014-07-16 10:12-0500\n"
+"Last-Translator: Barb Atkinson <barbi.atkinson@gmaill.com>\n"
+"Language-Team: Barb Atkinson <barbi.atkinson@gmaill.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:24
+msgid "Posted On:"
+msgstr ""
+
+#: archive.php:87 archive.php:126 archive.php:167 archive.php:214
+#: archive.php:242 author.php:86 author.php:125 author.php:166 author.php:213
+#: author.php:241 category.php:46 category.php:85 category.php:126
+#: category.php:173 category.php:201 index.php:51 index.php:90 index.php:131
+#: index.php:178 index.php:206 search.php:64 search.php:97 search.php:130
+#: search.php:172 search.php:200 single-fullwidth.php:37 single.php:34
+msgid "By"
+msgstr ""
+
+#: archive.php:280 author.php:279 category.php:239 index.php:244
+#: page-EDD_Sidebar.php:50 page-fullwidth.php:47 page.php:44
+#: single-cr3ativcareers.php:90 single-cr3ativportfolio.php:119
+#: single-cr3ativstaff.php:68 single-download.php:67 single-fullwidth.php:118
+#: single.php:115 template-cr3ativcareers.php:49 template-cr3ativstaff.php:42
+#: template-downloads.php:39 template-homepage.php:244
+#: template-portfolio3columnfilter.php:40
+msgid "There are no posts to display. Try using the search."
+msgstr ""
+
+#: archive.php:286 author.php:285 category.php:245 index.php:250
+#: search.php:228 taxonomy-cr3ativdepartment.php:74
+#: template-cr3ativcareers.php:99 template-cr3ativstaff.php:104
+msgid "Newer"
+msgstr ""
+
+#: archive.php:287 author.php:286 category.php:246 index.php:251
+#: search.php:229 taxonomy-cr3ativdepartment.php:75
+#: template-cr3ativcareers.php:100 template-cr3ativstaff.php:105
+msgid "Older"
+msgstr ""
+
+#: author.php:24
+msgid "Posted By:"
+msgstr ""
+
+#: category.php:24 single-fullwidth.php:71 single.php:68
+msgid "Posted In:"
+msgstr ""
+
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:28
+msgid "Review"
+msgstr ""
+
+#: comments.php:32
+msgid "Reviews"
+msgstr ""
+
+#: comments.php:49
+msgid "Comment"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments"
+msgstr ""
+
+#: footer-portfolio.php:28 footer.php:28
+msgid "bottom logo"
+msgstr ""
+
+#: functions.php:36
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Shopping Cart Menu"
+msgstr ""
+
+#: functions.php:95
+#, php-format
+msgid "<span class=\"comment-author\">%s</span>"
+msgstr ""
+
+#: functions.php:97
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:103
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/theme-options-widgets.php:4
+msgid "Home Top"
+msgstr ""
+
+#: functions/theme-options-widgets.php:12
+msgid "Blog"
+msgstr ""
+
+#: functions/theme-options-widgets.php:20
+msgid "Page"
+msgstr ""
+
+#: functions/theme-options-widgets.php:28
+msgid "EDD Single Page Sidebar"
+msgstr ""
+
+#: functions/theme-options-widgets.php:36
+msgid "Footer"
+msgstr ""
+
+#: functions/theme-options-widgets.php:44
+msgid "Error Page"
+msgstr ""
+
+#: functions/theme-options.php:28
+msgid "Setup"
+msgstr ""
+
+#: functions/theme-options.php:32
+msgid "Color and Image Sets"
+msgstr ""
+
+#: functions/theme-options.php:38
+msgid "Top Logo"
+msgstr ""
+
+#: functions/theme-options.php:39 functions/theme-options.php:51
+msgid "Upload your top logo."
+msgstr ""
+
+#: functions/theme-options.php:50
+msgid "Bottom Logo"
+msgstr ""
+
+#: functions/theme-options.php:62
+msgid "Favicon"
+msgstr ""
+
+#: functions/theme-options.php:63
+msgid "Upload your favicon.  Recommended size is 16 X 16 transparent .png."
+msgstr ""
+
+#: functions/theme-options.php:74
+msgid "Read More Button Text"
+msgstr ""
+
+#: functions/theme-options.php:75
+msgid ""
+"Enter the text you want to appear on all your 'more' buttons. Standard text "
+"used generally is \"Read More\"."
+msgstr ""
+
+#: functions/theme-options.php:76
+msgid "Read More"
+msgstr ""
+
+#: functions/theme-options.php:86
+msgid "Tracking Code"
+msgstr ""
+
+#: functions/theme-options.php:87
+msgid ""
+"Enter the tracking code here that will go in the footer of every page for "
+"your analytic reporting."
+msgstr ""
+
+#: functions/theme-options.php:98
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/theme-options.php:99
+msgid "Enter your custom css here that will over ride the stylesheet."
+msgstr ""
+
+#: functions/theme-options.php:110
+msgid "Copyright Information"
+msgstr ""
+
+#: functions/theme-options.php:111
+msgid ""
+"HTML is allowed here. Enter your copyright information that will appear in "
+"the footer of every page. You do not need to enter the copyright symbol - "
+"this is done automatically."
+msgstr ""
+
+#: functions/theme-options.php:122
+msgid "Menu Title"
+msgstr ""
+
+#: functions/theme-options.php:123
+msgid "Enter the text you want to appear beside your menu icon."
+msgstr ""
+
+#: functions/theme-options.php:124
+msgid "Menu"
+msgstr ""
+
+#: functions/theme-options.php:134
+msgid "Boxed?"
+msgstr ""
+
+#: functions/theme-options.php:135
+msgid "Choose yes or no if you would like a boxed layout."
+msgstr ""
+
+#: functions/theme-options.php:146
+msgid "Yes"
+msgstr ""
+
+#: functions/theme-options.php:151
+msgid "No"
+msgstr ""
+
+#: functions/theme-options.php:158
+msgid "Homepage Featured Products Title"
+msgstr ""
+
+#: functions/theme-options.php:159
+msgid ""
+"Enter the text you want to appear above the loop on the homepage that shows "
+"the 3 downloads from the EDD plugin that were given the category of "
+"Featured. Example: Our Featured Products"
+msgstr ""
+
+#: functions/theme-options.php:170
+msgid "Homepage Recent Products Title"
+msgstr ""
+
+#: functions/theme-options.php:171
+msgid ""
+"Enter the text you want to appear above the loop on the homepage that shows "
+"the latest 6 downloads from the EDD plugin. Example: Our Latest Products"
+msgstr ""
+
+#: functions/theme-options.php:182
+msgid "Body Background Image"
+msgstr ""
+
+#: functions/theme-options.php:183
+msgid ""
+"Upload the image you have selected for your background image of your body."
+msgstr ""
+
+#: functions/theme-options.php:194
+msgid "Body Image Repeat"
+msgstr ""
+
+#: functions/theme-options.php:195
+msgid ""
+"Choose how you want your body background image to repeat.  Repeat=this image "
+"will repeat horizontally and vertically.  Repeat-x=this image will ONLY "
+"repeat horizontally.  Repeat-y=this image will ONLY repeat vertically."
+msgstr ""
+
+#: functions/theme-options.php:206 functions/theme-options.php:259
+msgid "repeat"
+msgstr ""
+
+#: functions/theme-options.php:211 functions/theme-options.php:264
+msgid "repeat-x"
+msgstr ""
+
+#: functions/theme-options.php:216 functions/theme-options.php:269
+msgid "repeat-y"
+msgstr ""
+
+#: functions/theme-options.php:223
+msgid "Body Background Color"
+msgstr ""
+
+#: functions/theme-options.php:224
+msgid ""
+"Choose the background color you want for your body. This color will also be "
+"used for you horizontal rules"
+msgstr ""
+
+#: functions/theme-options.php:235
+msgid "Footer Background Image"
+msgstr ""
+
+#: functions/theme-options.php:236
+msgid ""
+"Upload the image you have selected for your background image of your footer."
+msgstr ""
+
+#: functions/theme-options.php:247
+msgid "Footer Image Repeat"
+msgstr ""
+
+#: functions/theme-options.php:248
+msgid ""
+"Choose how you want your footer background image to repeat.  Repeat=this "
+"image will repeat horizontally and vertically.  Repeat-x=this image will "
+"ONLY repeat horizontally.  Repeat-y=this image will ONLY repeat vertically."
+msgstr ""
+
+#: functions/theme-options.php:276
+msgid "Color Option 1"
+msgstr ""
+
+#: functions/theme-options.php:277
+msgid ""
+"This color will be used for the breadcrumb wrapper background-color and "
+"links.  It will also be the background color of the footer area if you did "
+"not choose the image upload option above."
+msgstr ""
+
+#: functions/theme-options.php:288
+msgid "Color Option 2"
+msgstr ""
+
+#: functions/theme-options.php:289
+msgid ""
+"This color will be used for header wrapper background-color, all headings "
+"that are not links, footer wrapper  background-color, input submit "
+"background-color, input submit text color, breadcrumb text color, the search "
+"input box in the header menu  background-color, all input border colors - "
+"including submits, pull down menu side  background-color, header post meta "
+"text color and caption  background-color. "
+msgstr ""
+
+#: functions/theme-options.php:300
+msgid "Color Option 3"
+msgstr ""
+
+#: functions/theme-options.php:301
+msgid ""
+"This color will be used for the headings in the sidebar, all input borders "
+"and colors for contact page and comment forms, placeholder text color, all "
+"navigation items - top and bottom and the copyright."
+msgstr ""
+
+#: functions/theme-options.php:312
+msgid "Color Option 4"
+msgstr ""
+
+#: functions/theme-options.php:313
+msgid ""
+"This color will be used for the page wrapper  background-color, the footer "
+"widget text and links, the footer widget input, breadcrumb links and caption "
+"text color."
+msgstr ""
+
+#: functions/theme-options.php:324
+msgid "Color Option 5"
+msgstr ""
+
+#: functions/theme-options.php:325
+msgid "This color will be used for list items and all text."
+msgstr ""
+
+#: functions/theme-options.php:336
+msgid "Color Option 6"
+msgstr ""
+
+#: functions/theme-options.php:337
+msgid "This color will be used for all p text and list items in the sidebar."
+msgstr ""
+
+#: functions/theme-options.php:348
+msgid "Color Option 7"
+msgstr ""
+
+#: functions/theme-options.php:349
+msgid ""
+"This color will be used as the  background-color for the left side of the "
+"pull down menu and the homepage top widget section."
+msgstr ""
+
+#: header.php:337
+msgid "top logo"
+msgstr ""
+
+#: header.php:366
+msgid "Close"
+msgstr ""
+
+#: header.php:418 single-fullwidth.php:96 single.php:93
+msgid "comment"
+msgstr ""
+
+#: header.php:424 single-fullwidth.php:101 single.php:98
+msgid "comments"
+msgstr ""
+
+#: index.php:35
+msgid "Featured Post"
+msgstr ""
+
+#: search-download.php:42 taxonomy-download_category.php:65
+#: template-downloads.php:129 template-homepage.php:88
+#: template-homepage.php:180
+msgid "ITEM PRICE:"
+msgstr ""
+
+#: search-download.php:44 taxonomy-cr3ativportfolio_type.php:48
+#: taxonomy-download_category.php:67 template-downloads.php:131
+#: template-homepage.php:90 template-homepage.php:182
+#: template-portfolio3columnfilter.php:108
+msgid "DETAILS"
+msgstr ""
+
+#: search-download.php:50 search-download.php:68
+#: taxonomy-download_category.php:73 taxonomy-download_category.php:91
+#: template-downloads.php:137 template-downloads.php:155
+#: template-homepage.php:96 template-homepage.php:114
+#: template-homepage.php:188 template-homepage.php:206
+msgid "By:"
+msgstr ""
+
+#: search.php:24
+msgid "Results For "
+msgstr ""
+
+#: searchform-download.php:15 searchform.php:15
+#: taxonomy-download_category.php:38 template-downloads.php:57
+msgid "Search"
+msgstr ""
+
+#: single-cr3ativportfolio.php:51
+msgid "Date"
+msgstr ""
+
+#: single-cr3ativportfolio.php:68
+msgid "Client"
+msgstr ""
+
+#: single-cr3ativportfolio.php:82
+msgid "Link"
+msgstr ""
+
+#: single-cr3ativportfolio.php:96
+msgid "Skills"
+msgstr ""
+
+#: single-download.php:44
+msgid "Click to view larger images"
+msgstr ""
+
+#: single-download.php:102
+msgid "Copyright"
+msgstr ""
+
+#: single-fullwidth.php:82 single.php:79
+msgid "Tags:"
+msgstr ""
+
+#: single-fullwidth.php:123 single.php:120
+msgid "Newer Posts"
+msgstr ""
+
+#: single-fullwidth.php:124 single.php:121
+msgid "Older Posts"
+msgstr ""
+
+#: sitemap.php:49
+msgid "Categories"
+msgstr ""
+
+#: sitemap.php:70
+msgid "No categories"
+msgstr ""
+
+#: sitemap.php:86
+msgid "Feeds"
+msgstr ""
+
+#: sitemap.php:90
+msgid "Full content"
+msgstr ""
+
+#: sitemap.php:90
+msgid "Main RSS"
+msgstr ""
+
+#: sitemap.php:91
+msgid "Comment Feed"
+msgstr ""
+
+#: sitemap.php:97
+msgid "Archives"
+msgstr ""
+
+#: sitemap.php:110
+msgid "Pages"
+msgstr ""
+
+#: sitemap.php:122
+msgid "All Blog Posts"
+msgstr ""
+
+#: sitemap.php:131
+msgid "Permanent Link to"
+msgstr ""
+
+#: taxonomy-download_category.php:31 taxonomy-download_category.php:34
+#: template-downloads.php:50 template-downloads.php:53
+msgid "Search The Marketplace"
+msgstr ""
+
+#: template-downloads.php:74 template-portfolio3columnfilter.php:53
+msgid "All"
+msgstr ""
